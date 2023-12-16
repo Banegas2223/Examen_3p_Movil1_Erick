@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405306519293",
+    "project_id": "examen-erick-banegas",
+    "storage_bucket": "examen-erick-banegas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405306519293:android:7fc92523d8d6320fcad894",
+        "android_client_info": {
+          "package_name": "com.example.examen_3p_movil1_erick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQJo5gHWA8TEL1-vAqOY8X_803FufA-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
